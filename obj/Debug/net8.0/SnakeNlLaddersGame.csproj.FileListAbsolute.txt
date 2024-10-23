@@ -1,0 +1,14 @@
+C:\Users\misha\source\repos\SnakeNlLaddersGame\obj\Debug\net8.0\SnakeNlLaddersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\source\repos\SnakeNlLaddersGame\obj\Debug\net8.0\SnakeNlLaddersGame.AssemblyInfoInputs.cache
+C:\Users\misha\source\repos\SnakeNlLaddersGame\obj\Debug\net8.0\SnakeNlLaddersGame.AssemblyInfo.cs
+C:\Users\misha\source\repos\SnakeNlLaddersGame\obj\Debug\net8.0\SnakeNlLaddersGame.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\SnakeNlLaddersGame\bin\Debug\net8.0\SnakeNlLaddersGame.exe
+C:\Users\misha\source\repos\SnakeNlLaddersGame\bin\Debug\net8.0\SnakeNlLaddersGame.deps.json
+C:\Users\misha\source\repos\SnakeNlLaddersGame\bin\Debug\net8.0\SnakeNlLaddersGame.runtimeconfig.json
+C:\Users\misha\source\repos\SnakeNlLaddersGame\bin\Debug\net8.0\SnakeNlLaddersGame.dll
+C:\Users\misha\source\repos\SnakeNlLaddersGame\bin\Debug\net8.0\SnakeNlLaddersGame.pdb
+C:\Users\misha\source\repos\SnakeNlLaddersGame\obj\Debug\net8.0\SnakeNlLaddersGame.dll
+C:\Users\misha\source\repos\SnakeNlLaddersGame\obj\Debug\net8.0\refint\SnakeNlLaddersGame.dll
+C:\Users\misha\source\repos\SnakeNlLaddersGame\obj\Debug\net8.0\SnakeNlLaddersGame.pdb
+C:\Users\misha\source\repos\SnakeNlLaddersGame\obj\Debug\net8.0\SnakeNlLaddersGame.genruntimeconfig.cache
+C:\Users\misha\source\repos\SnakeNlLaddersGame\obj\Debug\net8.0\ref\SnakeNlLaddersGame.dll
