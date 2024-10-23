@@ -8,7 +8,7 @@ namespace SnakeNlLaddersGame
         {
             const int DiceSides = 6;
             const int NumOfGoldenCells = 2;
-            int boardSize = (int)Math.Pow(20, 2);
+            int boardSize = (int)Math.Pow(10, 2);
 
             Tuple<int, int> playerRange = new Tuple<int, int>(2, 2);
             Tuple<int, int> ladderRange = new Tuple<int, int>(1, 5);
